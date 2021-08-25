@@ -141,3 +141,13 @@ function removelExtraLine(fileData){
     }
     return data;
 }
+
+
+//command
+/*     
+// npm init   
+//  npm install fs     or  npm i fs   
+//             npm run wcat       
+//  npm link   
+// npm run wcat a.txt -rsc "%how"        
+*/
